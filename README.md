@@ -32,3 +32,16 @@ To summarize, this is a four-part process:
 - View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
 
 
+# Documents
+
+Markdown doesn’t have all the bells and whistles of word processors like Microsoft Word, but it’s good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is key, because once you have a PDF document, you can do anything with it — print it, email it, or upload it to a website.
+
+Here are some Markdown document authoring applications I recommend:
+
+- Mac :
+- ios/Android :
+- Windows :
+- Linux :
+- Web : 
+
+
