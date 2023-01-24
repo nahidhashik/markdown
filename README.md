@@ -38,14 +38,49 @@ Markdown doesn’t have all the bells and whistles of word processors like Micro
 
 Here are some Markdown document authoring applications I recommend:
 
-- Mac :[MacDown](https://www.markdownguide.org/tools/macdown/), [iA Writer](https://www.markdownguide.org/tools/ia-writer/), [Marked 2](https://www.markdownguide.org/tools/marked-2/)
+- Mac : [MacDown](https://www.markdownguide.org/tools/macdown/), [iA Writer](https://www.markdownguide.org/tools/ia-writer/), [Marked 2](https://www.markdownguide.org/tools/marked-2/)
 
-- ios/Android :[iA Writer](https://www.markdownguide.org/tools/ia-writer/)
+- ios/Android : [iA Writer](https://www.markdownguide.org/tools/ia-writer/)
 
-- Windows :[ghostwriter](https://kde.github.io/ghostwriter/), [Markdown Monster](https://markdownmonster.west-wind.com/)
+- Windows : [ghostwriter](https://kde.github.io/ghostwriter/), [Markdown Monster](https://markdownmonster.west-wind.com/)
 
-- Linux :[ghostwriter](https://kde.github.io/ghostwriter/)
+- Linux : [ghostwriter](https://kde.github.io/ghostwriter/)
 
-- Web :[Dillinger](https://www.markdownguide.org/tools/dillinger/),[StackEdit](https://www.markdownguide.org/tools/stackedit/) 
+- Web : [Dillinger](https://www.markdownguide.org/tools/dillinger/),[StackEdit](https://www.markdownguide.org/tools/stackedit/) 
 
+
+# Websites
+Markdown was designed for the web, so it should come as no surprise that there are plenty of applications specifically designed for creating website content.
+
+If you’re looking for the simplest possible way to create a website with Markdown files, check out blot.im. After you sign up for Blot, it creates a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and — poof! — they’re on your website. It couldn’t be easier.
+
+If you’re familiar with HTML, CSS, and version control, check out Jekyll, a popular static site generator that takes Markdown files and builds an HTML website. One advantage to this approach is that GitHub Pages provides free hosting for Jekyll-generated websites. If Jekyll isn’t your cup of tea, just pick one of the many other static site generators available.
+
+If you’d like to use a content management system (CMS) to power your website, take a look at Ghost. It’s a free and open-source blogging platform with a nice Markdown editor. If you’re a WordPress user, you’ll be happy to know there’s Markdown support for websites hosted on WordPress.com. Self-hosted WordPress sites can use the Jetpack plugin.
+
+# Presentations
+Believe it or not, you can generate presentations from Markdown-formatted files. Creating presentations in Markdown takes a little getting used to, but once you get the hang of it, it’s a lot faster and easier than using an application like PowerPoint or Keynote. Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as are Cleaver (GitHub project) and Marp (GitHub project). If you use a Mac and would prefer to use an application, check out Deckset or Hyperdeck.
+
+# Email
+If you send a lot of email and you’re tired of the formatting controls available on most email provider websites, you’ll be happy to learn there’s an easy way to write email messages using Markdown. Markdown Here is a free and open-source browser extension that converts Markdown-formatted text into HTML that’s ready to send.
+
+# Collaboration
+Collaboration and team messaging applications are a popular way of communicating with coworkers and friends at work and home. These applications don’t utilize all of Markdown’s features, but the features they do provide are fairly useful. For example, the ability to bold and italicize text without using the WYSIWYG interface is pretty handy. Slack, Discord, Wiki.js, and Mattermost are all good collaboration applications.
+
+# Books
+Looking to self-publish a novel? Try Leanpub, a service that takes your Markdown-formatted files and turns them into an electronic book. Leanpub outputs your book in PDF, EPUB, and MOBI file format. If you’d like to create paperback copies of your book, you can upload the PDF file to another service such as Kindle Direct Publishing. To learn more about writing and self-publishing a book using Markdown, read this blog post.
+
+
+# Documentation
+Markdown is a natural fit for technical documentation. Companies like GitHub are increasingly switching to Markdown for their documentation
+If you write documentation for a product or service, take a look at these handy tools:
+- [Read the Docs](https://readthedocs.org/) can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push — Read the Docs does the rest. They also have a service for [commercial entities](https://readthedocs.com/). 
+
+- [VuePress](https://vuepress.vuejs.org/) is a static site generator powered by Vue and optimized for writing technical documentation.
+
+- [Jekyll](https://www.markdownguide.org/tools/jekyll/) was mentioned earlier in the section on websites, but it’s also a good option for generating a documentation website from Markdown files. If you go this route, be sure to check out the [Jekyll documentation theme](https://idratherbewriting.com/documentation-theme-jekyll/).
+
+- [Docusaurus](https://www.markdownguide.org/tools/docusaurus/) is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.
+
+- [MkDocs](https://www.markdownguide.org/tools/mkdocs/) is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several built in [themes](https://www.mkdocs.org/user-guide/choosing-your-theme/), including a port of the Read the Docs documentation theme for use with MkDocs. One of the newest themes is [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 
