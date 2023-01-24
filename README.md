@@ -38,10 +38,14 @@ Markdown doesn’t have all the bells and whistles of word processors like Micro
 
 Here are some Markdown document authoring applications I recommend:
 
-- Mac :
-- ios/Android :
-- Windows :
-- Linux :
-- Web : 
+- Mac :[MacDown](https://www.markdownguide.org/tools/macdown/), [iA Writer](https://www.markdownguide.org/tools/ia-writer/), [Marked 2](https://www.markdownguide.org/tools/marked-2/)
+
+- ios/Android :[iA Writer](https://www.markdownguide.org/tools/ia-writer/)
+
+- Windows :[ghostwriter](https://kde.github.io/ghostwriter/), [Markdown Monster](https://markdownmonster.west-wind.com/)
+
+- Linux :[ghostwriter](https://kde.github.io/ghostwriter/)
+
+- Web :[Dillinger](https://www.markdownguide.org/tools/dillinger/),[StackEdit](https://www.markdownguide.org/tools/stackedit/) 
 
 
