@@ -22,3 +22,13 @@ For example, to denote a heading, you add a number sign before it (e.g., # Headi
 # How Does it Work?
 
 Markdown applications use something called a Markdown processor (also commonly referred to as a “parser” or an “implementation”) to take the Markdown-formatted text and output it to HTML format. At that point, your document can be viewed in a web browser or combined with a style sheet and printed. You can see a visual representation of this process below.
+
+![process](https://user-images.githubusercontent.com/37225357/214296634-9d5536b0-075f-4276-82f9-3ce2d2276c66.png)
+
+To summarize, this is a four-part process:
+- Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.
+- Open the Markdown file in a Markdown application.
+- Use the Markdown application to convert the Markdown file to an HTML document.
+- View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
+
+
